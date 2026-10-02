@@ -1,0 +1,13 @@
+device,traffic_source,group,visitors,conversions
+mobile,paid,control,8200,287
+mobile,paid,variant,8150,391
+mobile,organic,control,6100,183
+mobile,organic,variant,6050,187
+mobile,email,control,2400,96
+mobile,email,variant,2380,99
+desktop,paid,control,5300,233
+desktop,paid,variant,5280,240
+desktop,organic,control,7200,302
+desktop,organic,variant,7260,309
+desktop,email,control,1900,95
+desktop,email,variant,1920,94
